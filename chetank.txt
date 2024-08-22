@@ -1,2 +1,12 @@
 welcome to git
 explore the git
+a
+c
+d
+e
+f
+g
+h
+i
+j
+k
