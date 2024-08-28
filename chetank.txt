@@ -1,4 +1,4 @@
-welcome to git
+welcome
 explore the git
 a
 c
@@ -10,3 +10,9 @@ h
 i
 j
 k
+l
+m
+n
+o
+p
+q
